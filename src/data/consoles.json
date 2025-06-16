@@ -1,0 +1,72 @@
+{
+  "nintendo-entertainment-system": {
+    "name": "NES",
+    "fullName": "Nintendo Entertainment System",
+    "manufacturer": "Nintendo",
+    "year": 1985,
+    "generation": "3rd Generation",
+    "description": "The console that revitalized the video game industry after the 1983 crash.",
+    "detailedDescription": "The Nintendo Entertainment System (NES) is an 8-bit third-generation home video game console produced by Nintendo. It was first released in Japan in 1983 as the Family Computer (Famicom), and was later released in North America in 1985, in Europe in 1986, and Australia in 1987. The NES is credited with reviving the video game industry following the 1983 video game crash, and with helping establish Nintendo as the dominant company in the industry.",
+    "specs": {
+      "cpu": "Ricoh 2A03 (MOS 6502 core) @ 1.79 MHz",
+      "memory": "2 KB internal RAM, expandable to 8 KB",
+      "storage": "Cartridge-based games",
+      "graphics": "Picture Processing Unit (PPU) - 256×240 resolution",
+      "audio": "5-channel PSG sound",
+      "controllers": "NES Controller with D-pad and 4 buttons",
+      "connectivity": ["RF", "Composite Video", "Light Gun Port"]
+    },
+    "popularGames": [
+      { "name": "Super Mario Bros.", "year": 1985, "genre": "Platformer" },
+      { "name": "The Legend of Zelda", "year": 1986, "genre": "Action-Adventure" },
+      { "name": "Metroid", "year": 1986, "genre": "Action-Adventure" },
+      { "name": "Mega Man 2", "year": 1988, "genre": "Platformer" }
+    ],
+    "image": "https://images.pexels.com/photos/442576/pexels-photo-442576.jpeg",
+    "emulators": [
+      { "name": "Nestopia", "platform": "Windows/Linux/macOS", "compatibility": "Excellent" },
+      { "name": "FCEUX", "platform": "Windows/Linux/macOS", "compatibility": "Excellent" },
+      { "name": "Mesen", "platform": "Windows/Linux", "compatibility": "Perfect" }
+    ],
+    "trivia": [
+      "The NES was originally released in Japan as the Famicom (Family Computer) in 1983.",
+      "The iconic gray and black color scheme was chosen for the North American market to make it look more like a VCR than a toy.",
+      "The NES controller introduced the cross-shaped D-pad, which became the standard for gaming controllers."
+    ]
+  },
+  "super-nintendo-entertainment-system": {
+    "name": "SNES",
+    "fullName": "Super Nintendo Entertainment System",
+    "manufacturer": "Nintendo",
+    "year": 1991,
+    "generation": "4th Generation",
+    "description": "16-bit console known for its advanced graphics and sound capabilities.",
+    "detailedDescription": "The Super Nintendo Entertainment System (SNES), known as the Super Famicom in Japan, is a 16-bit home video game console developed by Nintendo. Released in 1990 in Japan and 1991 in North America, the SNES became one of the best-selling video game consoles of all time.",
+    "specs": {
+      "cpu": "Ricoh 5A22 (65C816 core) @ 3.58 MHz",
+      "memory": "128 KB main RAM, 64 KB video RAM, 64 KB audio RAM",
+      "storage": "Cartridge-based games with optional enhancement chips",
+      "graphics": "PPU with Mode 7 scaling/rotation - 256×224 to 512×448 resolution",
+      "audio": "8-channel ADPCM sound with Sony SPC700 processor",
+      "controllers": "SNES Controller with 8 buttons including shoulder buttons",
+      "connectivity": ["RF", "Composite Video", "S-Video", "Multi-tap support"]
+    },
+    "popularGames": [
+      { "name": "Super Mario World", "year": 1990, "genre": "Platformer" },
+      { "name": "The Legend of Zelda: A Link to the Past", "year": 1991, "genre": "Action-Adventure" },
+      { "name": "Super Metroid", "year": 1994, "genre": "Action-Adventure" },
+      { "name": "Chrono Trigger", "year": 1995, "genre": "RPG" }
+    ],
+    "image": "https://images.pexels.com/photos/371924/pexels-photo-371924.jpeg",
+    "emulators": [
+      { "name": "Snes9x", "platform": "Windows/Linux/macOS", "compatibility": "Excellent" },
+      { "name": "bsnes", "platform": "Windows/Linux/macOS", "compatibility": "Perfect" },
+      { "name": "RetroArch (Multiple Cores)", "platform": "All Platforms", "compatibility": "Excellent" }
+    ],
+    "trivia": [
+      "The SNES introduced shoulder buttons (L and R) which became standard on future controllers.",
+      "Mode 7 graphics allowed for pseudo-3D effects like the scaling and rotation seen in F-Zero and Super Mario Kart.",
+      "The SNES had several enhancement chips in cartridges, including the Super FX chip used in Star Fox."
+    ]
+  }
+}

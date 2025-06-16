@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Lakka",
+    "description": "A lightweight Linux distribution that transforms a small computer into a full blown game console.",
+    "version": "4.3",
+    "devices": ["Raspberry Pi", "PC", "Odroid"]
+  },
+  {
+    "name": "RetroPie",
+    "description": "Allows you to turn your Raspberry Pi or PC into a retro-gaming machine.",
+    "version": "4.8",
+    "devices": ["Raspberry Pi", "PC", "Odroid"]
+  },
+  {
+    "name": "ArkOS",
+    "description": "Custom firmware for various ARM-based handheld gaming devices.",
+    "version": "2.0",
+    "devices": ["RG351P/M/V", "RG810", "RK2020"]
+  }
+]

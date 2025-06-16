@@ -1,0 +1,32 @@
+[
+  {
+    "name": "RPCS3 (Windows)",
+    "displayName": "RPCS3",
+    "version": "0.0.30-16005",
+    "os": "Windows",
+    "type": "Emulator",
+    "updated": "2025-05-28",
+    "size": "75MB",
+    "tags": ["PS3", "Emulator"]
+  },
+  {
+    "name": "Yuzu Early Access (Linux)",
+    "displayName": "Yuzu Early Access",
+    "version": "EA-4179",
+    "os": "Linux",
+    "type": "Emulator",
+    "updated": "2025-05-27",
+    "size": "120MB",
+    "tags": ["Switch", "Emulator"]
+  },
+  {
+    "name": "Lakka (Raspberry Pi 4/400)",
+    "displayName": "Lakka",
+    "version": "4.3",
+    "os": "Linux",
+    "type": "Firmware",
+    "updated": "2025-05-20",
+    "size": "650MB",
+    "tags": ["Raspberry Pi", "Firmware"]
+  }
+]

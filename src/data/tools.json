@@ -1,0 +1,23 @@
+[
+  {
+    "name": "RetroArch",
+    "description": "Frontend for emulators, game engines and media players. Supports shaders, netplay, rewinding, and more.",
+    "version": "1.15.0",
+    "category": "Frontend",
+    "platforms": ["windows", "linux", "mac", "android", "ios"]
+  },
+  {
+    "name": "LaunchBox",
+    "description": "Game launcher and frontend with automatic metadata downloading, beautiful themes, and BigBox mode.",
+    "version": "14.7",
+    "category": "Frontend",
+    "platforms": ["windows"]
+  },
+  {
+    "name": "RetroAchievements",
+    "description": "Adds achievements system to classic games. Track your progress and compete with others.",
+    "version": "2.0",
+    "category": "Enhancement",
+    "platforms": ["windows", "linux", "android"]
+  }
+]

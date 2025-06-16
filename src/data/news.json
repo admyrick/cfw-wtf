@@ -1,0 +1,29 @@
+[
+  {
+    "title": "RPCS3 Now Supports 4K Resolution for Most Games",
+    "excerpt": "Latest update brings improved graphics scaling and performance optimizations for high-resolution gaming on the PS3 emulator.",
+    "date": "2025-05-28",
+    "readTime": "5 min",
+    "category": "Emulators",
+    "tags": ["RPCS3", "PS3", "Graphics"],
+    "image": "https://images.pexels.com/photos/442576/pexels-photo-442576.jpeg"
+  },
+  {
+    "title": "Complete Guide: Installing Custom Firmware on Steam Deck",
+    "excerpt": "Step-by-step tutorial on how to safely install and configure custom firmware on your Steam Deck.",
+    "date": "2025-05-25",
+    "readTime": "15 min",
+    "category": "Tutorials",
+    "tags": ["Steam Deck", "Custom Firmware", "Guide"],
+    "image": "https://images.pexels.com/photos/2115257/pexels-photo-2115257.jpeg"
+  },
+  {
+    "title": "Yuzu Team Announces Major Performance Improvements",
+    "excerpt": "Latest development build brings significant speed boosts and compatibility fixes for popular Switch titles.",
+    "date": "2025-05-20",
+    "readTime": "4 min",
+    "category": "News",
+    "tags": ["Yuzu", "Switch", "Performance"],
+    "image": "https://images.pexels.com/photos/371924/pexels-photo-371924.jpeg"
+  }
+]

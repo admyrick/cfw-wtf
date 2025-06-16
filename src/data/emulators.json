@@ -1,0 +1,66 @@
+{
+  "windows": {
+    "title": "Windows Emulators",
+    "description": "The best emulators for Windows PC gaming",
+    "emulators": [
+      {
+        "name": "RPCS3",
+        "description": "PlayStation 3 emulator with excellent compatibility and performance",
+        "version": "0.0.30-16005",
+        "rating": 4.8,
+        "downloads": "2.1M",
+        "lastUpdated": "2025-01-15",
+        "supported": ["PlayStation 3"],
+        "features": ["4K Resolution", "Save States", "Shader Support", "Netplay"],
+        "platforms": ["Windows", "Linux"],
+        "downloadUrl": "#",
+        "infoUrl": "#"
+      },
+      {
+        "name": "Yuzu",
+        "description": "Nintendo Switch emulator with active development",
+        "version": "EA-4179",
+        "rating": 4.6,
+        "downloads": "1.8M",
+        "lastUpdated": "2025-01-14",
+        "supported": ["Nintendo Switch"],
+        "features": ["Vulkan Support", "Mod Support", "60 FPS Patches", "HD Textures"],
+        "platforms": ["Windows", "Linux"],
+        "downloadUrl": "#",
+        "infoUrl": "#"
+      },
+      {
+        "name": "Dolphin",
+        "description": "GameCube and Wii emulator with perfect compatibility",
+        "version": "5.0-20000",
+        "rating": 4.9,
+        "downloads": "3.2M",
+        "lastUpdated": "2025-01-12",
+        "supported": ["GameCube", "Wii"],
+        "features": ["HD Graphics", "Widescreen", "Anti-Aliasing", "Netplay"],
+        "platforms": ["Windows", "macOS", "Linux", "Android"],
+        "downloadUrl": "#",
+        "infoUrl": "#"
+      }
+    ]
+  },
+  "linux": {
+    "title": "Linux Emulators",
+    "description": "Native Linux emulators and compatibility solutions",
+    "emulators": [
+      {
+        "name": "RetroArch",
+        "description": "Multi-system emulator frontend with extensive core support",
+        "version": "1.15.0",
+        "rating": 4.8,
+        "downloads": "5.2M",
+        "lastUpdated": "2025-01-15",
+        "supported": ["Multiple Systems"],
+        "features": ["Unified Interface", "Shaders", "Netplay", "Achievements"],
+        "platforms": ["Linux", "Windows", "macOS", "Android", "iOS"],
+        "downloadUrl": "#",
+        "infoUrl": "#"
+      }
+    ]
+  }
+}
